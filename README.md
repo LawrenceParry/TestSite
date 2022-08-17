@@ -1,5 +1,6 @@
-# TestSite
+<link rel="stylesheet" href="/lawrenceparry/TestSite/css.css">
+Test Portfolio Site
 
-This is a test site
+<img src="assets/images/Test.png" style="center">
 
-<img src="assets/images/Test.png">
+Hi, my name is X and this is a bio blah blah blah.
