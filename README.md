@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/lawrenceparry/TestSite/css.css">
+<link rel="stylesheet" href="css.css">
 Test Portfolio Site
 
 <img src="assets/images/Test.png" class="center">
